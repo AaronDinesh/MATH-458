@@ -1,0 +1,4 @@
+/mnt/c/Users/aaron/Desktop/Coding/MATH-458/exercises/book_exercises/ch2/CMakeFiles/e22.dir
+/mnt/c/Users/aaron/Desktop/Coding/MATH-458/exercises/book_exercises/ch2/CMakeFiles/e23.dir
+/mnt/c/Users/aaron/Desktop/Coding/MATH-458/exercises/book_exercises/ch2/CMakeFiles/edit_cache.dir
+/mnt/c/Users/aaron/Desktop/Coding/MATH-458/exercises/book_exercises/ch2/CMakeFiles/rebuild_cache.dir

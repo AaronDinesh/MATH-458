@@ -1,0 +1,4 @@
+/mnt/c/Users/aaron/Desktop/Coding/pcsc/exercises/book_exercises/ch1/CMakeFiles/e11.dir
+/mnt/c/Users/aaron/Desktop/Coding/pcsc/exercises/book_exercises/ch1/CMakeFiles/e12.dir
+/mnt/c/Users/aaron/Desktop/Coding/pcsc/exercises/book_exercises/ch1/CMakeFiles/edit_cache.dir
+/mnt/c/Users/aaron/Desktop/Coding/pcsc/exercises/book_exercises/ch1/CMakeFiles/rebuild_cache.dir

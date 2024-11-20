@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ex2.dir/src/ex2.cpp.o -o build/ex2 
